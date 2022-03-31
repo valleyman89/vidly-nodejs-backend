@@ -1,4 +1,4 @@
 {
   "jwtPrivateKey": "",
-  "db": "process.env.MONGODB_URI"
+  "db": "mongodb://localhost:27017/vidly"
 }
