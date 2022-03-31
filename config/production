@@ -1,4 +1,0 @@
-{
-  "jwtPrivateKey": "vidly_jwtPrivateKey",
-  "db": "process.env.MONGODB_URI"
-}
