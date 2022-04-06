@@ -2,3 +2,4 @@ node_modules/
 coverage/
 hash.js
 logs/
+logs/combined.log
