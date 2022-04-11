@@ -1139,3 +1139,138 @@
 {"level":"info","message":"Connected to mongodb://localhost:27017/vidly"}
 {"level":"info","message":"Listening on port: 5005."}
 {"level":"info","message":"Connected to mongodb://localhost:27017/vidly"}
+{"level":"info","message":"Listening on port: 5005."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly"}
+{"level":"info","message":"GET /vidly/api/customers/"}
+{"level":"info","message":"GET /api/customers/"}
+{"level":"info","message":"POST /api/customers/"}
+{"level":"info","message":"GET /api/movies/"}
+{"level":"info","message":"POST /api/movies/"}
+{"level":"info","message":"POST /api/users/"}
+{"level":"info","message":"POST /api/users/"}
+{"level":"info","message":"POST /api/users/"}
+{"level":"info","message":"POST /api/users/"}
+{"level":"info","message":"POST /api/users/"}
+{"level":"info","message":"GET /api/users/"}
+{"level":"info","message":"POST /api/users/"}
+{"level":"info","message":"POST /api/users/"}
+{"level":"info","message":"Listening on port: 5005."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly"}
+{"level":"info","message":"GET /api/users/"}
+{"level":"info","message":"POST /api/users/"}
+{"level":"info","message":"Listening on port: 5005."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly"}
+{"level":"info","message":"POST /api/auth/"}
+{"level":"info","message":"GET /api/genre/"}
+{"level":"info","message":"GET /api/genres/"}
+{"level":"info","message":"GET /api/genres/"}
+{"level":"info","message":"POST /api/genres/"}
+{"level":"info","message":"POST /api/genres/"}
+{"level":"info","message":"GET /api/genres/"}
+{"level":"info","message":"GET /api/movies/"}
+{"level":"info","message":"POST /api/movies/"}
+{"level":"info","message":"POST /api/movies/"}
+{"level":"info","message":"POST /api/movies/"}
+{"level":"info","message":"POST /api/movies/"}
+{"level":"info","message":"POST /api/movies/"}
+{"level":"info","message":"POST /api/movies/"}
+{"level":"info","message":"Listening on port: 5005."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly"}
+{"level":"info","message":"GET /"}
+{"level":"info","message":"POST /api/movies/"}
+{"level":"info","message":"GET /api/movies/"}
+{"level":"info","message":"GET /api/genres/"}
+{"level":"info","message":"GET /api/genres/"}
+{"level":"info","message":"POST /api/genres/"}
+{"level":"info","message":"POST /api/genres/"}
+{"level":"info","message":"POST /api/genres/"}
+{"level":"info","message":"GET /api/genres/"}
+{"level":"info","message":"GET /api/genres/"}
+{"level":"info","message":"GET /api/movies/"}
+{"level":"info","message":"DELETE /api/movies/6254068ec6186ef334e9dff1"}
+{"level":"info","message":"GET /api/movies/6254068ec6186ef334e9dff1"}
+{"level":"info","message":"GET /api/movies/"}
+{"level":"info","message":"POST /api/movies/"}
+{"level":"info","message":"POST /api/movies/"}
+{"level":"info","message":"POST /api/movies/"}
+{"level":"info","message":"POST /api/movies/"}
+{"level":"info","message":"POST /api/movies/"}
+{"level":"info","message":"POST /api/movies/"}
+{"level":"info","message":"POST /api/movies/"}
+{"level":"info","message":"GET /api/movies/"}
+{"level":"info","message":"GET /api/movies/"}
+{"level":"info","message":"PUT /api/movies/624dcc8d1d58c5851d80b587"}
+{"level":"info","message":"PUT /api/movies/624dcc8d1d58c5851d80b587"}
+{"level":"info","message":"GET /api/movies/624dcc8d1d58c5851d80b587"}
+{"level":"info","message":"PUT /api/movies/624dcc8d1d58c5851d80b587"}
+{"level":"info","message":"GET /api/movies/624dcc8d1d58c5851d80b587"}
+{"level":"info","message":"GET /api/movies/"}
+{"level":"info","message":"GET /api/movies"}
+{"level":"info","message":"GET /favicon.ico"}
+{"level":"info","message":"GET /api/genres/"}
+{"level":"info","message":"GET /api/genres/"}
+{"level":"info","message":"GET /api/genres/"}
+{"level":"info","message":"GET /api/genres/"}
+{"level":"info","message":"GET /api/genres/"}
+{"level":"info","message":"GET /api/genres"}
+{"level":"info","message":"GET /api/genres"}
+{"level":"info","message":"GET /api/genres"}
+{"level":"info","message":"GET /api/genres"}
+{"level":"info","message":"GET /api/genres"}
+{"level":"info","message":"GET /api/genres"}
+{"level":"info","message":"GET /api/genres"}
+{"level":"info","message":"GET /api/genres"}
+{"level":"info","message":"GET /api/genres"}
+{"level":"info","message":"GET /api/genres"}
+{"level":"info","message":"GET /api/genres"}
+{"level":"info","message":"GET /api/genres"}
+{"level":"info","message":"GET /api/genres"}
+{"level":"info","message":"GET /api/genres"}
+{"level":"info","message":"GET /api/genres"}
+{"level":"info","message":"GET /api/genres"}
+{"level":"info","message":"GET /api/genres"}
+{"level":"info","message":"GET /api/genres"}
+{"level":"info","message":"GET /api/genres"}
+{"level":"info","message":"GET /api/genres"}
+{"level":"info","message":"GET /api/genres"}
+{"level":"info","message":"GET /api/genres"}
+{"level":"info","message":"GET /api/genres/"}
+{"level":"info","message":"OPTIONS /api/genres"}
+{"level":"info","message":"OPTIONS /api/genres"}
+{"level":"info","message":"GET /api/genres"}
+{"level":"info","message":"GET /api/genres"}
+{"level":"info","message":"Listening on port: 5005."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly"}
+{"level":"info","message":"GET /api/genres"}
+{"level":"info","message":"Listening on port: 5005."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly"}
+{"level":"info","message":"Listening on port: 5010."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly"}
+{"level":"info","message":"GET /api/genres"}
+{"level":"info","message":"GET /api/genres"}
+{"level":"info","message":"GET /api/genres"}
+{"level":"info","message":"Listening on port: 5010."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly"}
+{"level":"info","message":"Listening on port: 5010."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly"}
+{"level":"info","message":"Listening on port: 5010."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly"}
+{"level":"info","message":"GET /api/genres"}
+{"level":"info","message":"Listening on port: 5010."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly"}
+{"level":"info","message":"GET /api/genres"}
+{"level":"info","message":"Listening on port: 5010."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly"}
+{"level":"info","message":"GET /api/genres"}
+{"level":"info","message":"Listening on port: 5010."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly"}
+{"level":"info","message":"GET /api/genres"}
+{"level":"info","message":"Listening on port: 5010."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly"}
+{"level":"info","message":"GET /api/genres"}
+{"level":"info","message":"Listening on port: 5010."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly"}
+{"level":"info","message":"GET /api/genres"}
+{"level":"info","message":"Listening on port: 5010."}
+{"level":"info","message":"Connected to mongodb://localhost:27017/vidly"}
+{"level":"info","message":"GET /api/genres"}
