@@ -7,8 +7,12 @@ const movies = require("../routes/movies");
 const rentals = require("../routes/rentals");
 const returns = require("../routes/returns");
 const users = require("../routes/users");
+const cors = require("cors");
 
 module.exports = function (app) {
+  // SOLVE CORS ERROR
+  app.use(cors({ origin: "http://localhost:3000" }));
+
   // MIDDLEWARE
   app.use(express.json());
   app.use(express.urlencoded({ extended: true }));
