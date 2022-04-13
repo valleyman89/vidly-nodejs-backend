@@ -11,9 +11,7 @@ const cors = require("cors");
 
 module.exports = function (app) {
   // SOLVE CORS ERROR
-  app.use(
-    cors({ origin: "https://enigmatic-ridge-88618.herokuapp.com/movies" })
-  );
+  app.use(cors({ origin: "https://rocky-wildwood-21207.herokuapp.com" }));
 
   // MIDDLEWARE
   app.use(express.json());
