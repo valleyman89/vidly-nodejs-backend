@@ -11,7 +11,7 @@ const cors = require("cors");
 
 module.exports = function (app) {
   // SOLVE CORS ERROR
-  app.use(cors({ origin: "http://localhost:3000" }));
+  app.use(cors({ origin: "https://enigmatic-ridge-88618.herokuapp.com" }));
 
   // MIDDLEWARE
   app.use(express.json());
